@@ -1,3 +1,5 @@
+[![CircleCI](https://circleci.com/gh/elvisols/jloyalty.svg?style=svg)](https://circleci.com/gh/elvisols/jloyalty)
+
 # jloyalty
 This application was generated using JHipster 5.4.2, you can find documentation and help at [https://www.jhipster.tech/documentation-archive/v5.4.2](https://www.jhipster.tech/documentation-archive/v5.4.2).
 

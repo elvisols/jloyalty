@@ -1,6 +1,6 @@
 buildscript {
     repositories {
-        gradlePluginPortal()
+        jcenter()
     }
     dependencies {
         classpath "gradle.plugin.com.google.cloud.tools:jib-gradle-plugin:0.9.11"
